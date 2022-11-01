@@ -1,0 +1,13 @@
+#digital-clock{
+    background-color: rgb(143, 233, 168);
+    width: 35%;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    font-style: italic;
+    color: brown;
+    text-align: center;
+    box-shadow: 0 4px 8px 0;
+}
